@@ -1,6 +1,7 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This script uses git hook pre-commit for autorun unit tests
+
 
 # Project Goals
 
