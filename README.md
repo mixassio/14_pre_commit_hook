@@ -3,12 +3,14 @@
 This script uses git hook pre-commit for autorun unit tests
 
 Copy file pre-commit into dir .../our_project/.git/hooks
+
 check script
+
 ```#!bash
 
 $ chmod +x .../our_project/.git/hooks/pre-commit
 
-#
+
 ```
 
 after command git commit ... If our project consist of tests.py, they will run, befor commit.
