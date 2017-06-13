@@ -7,7 +7,7 @@ Copy file pre-commit into dir .../our_project/.git/hooks
 check script
 
 ```#!bash
-
+$ cp pre-commit .../our_project/.git/hooks
 $ chmod +x .../our_project/.git/hooks/pre-commit
 
 
